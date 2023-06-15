@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omar Ebrahim</h1>
 <img align="right" alt="Mechatronics" width="400" src="https://wallpapercave.com/wp/wp3521717.jpg">
 
-
-- 📫 How to reach me **omarkhaled200321@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/omar-ebrahim-9251931a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar ebrahim" height="30" width="40" /></a>
+<a href="mailto:omarkhaled200321@gmail.com" target="blank"><img align="center" src="https://clipartcraft.com/images/gmail-logo-square-1.png" alt="omar ebrahim" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCtvXtd8XElsDnhq0k-GLDHg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar ebrahim" height="30" width="40" /></a>
 </p>
 
