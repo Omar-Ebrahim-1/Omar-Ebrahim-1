@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://fossbytes.com/wp-content/uploads/2016/04/arduino-raspberry-pi.jpg))]
+[![MasterHead](https://fossbytes.com/wp-content/uploads/2016/04/arduino-raspberry-pi.jpg)](https://github.com/OmarEbrahim1)
 <h1 align="center">Hi 👋, I'm Omar Ebrahim</h1>
 <h3 align="center">A passionate mechatronics engineer from Canada</h3>
 <img align="right" alt="Mechatronics" width="400" src="https://art.pixilart.com/a0f18ca035ce9d4.gif">
