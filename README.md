@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Ebrahim</h1>
+<h1 align="center">Hi, I'm Omar Ebrahim</h1>
 <img align="right" alt="Mechatronics" width="400" src="https://wallpapercave.com/wp/wp3521717.jpg">
 
 <h3 align="left">Contact Me:</h3>
