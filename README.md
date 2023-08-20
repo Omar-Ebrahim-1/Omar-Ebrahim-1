@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header)
 
-# This is a Work In Progress. This is a template.
+# The profile README is currently work in progress
+This profile README is made by 
+[Ebrahim Pichka](https://github.com/ebrahimpichka/ebrahimpichka/blob/main/README.md),
+and I am using it as a template for mine.
 
 ### **About Me**
 -----
