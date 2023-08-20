@@ -1,12 +1,63 @@
-<h1 align="center">Hi, I'm Omar Ebrahim</h1>
-<img align="right" alt="Mechatronics" width="400" src="https://wallpapercave.com/wp/wp3521717.jpg">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header)
 
-<h3 align="left">Contact Me:</h3>
+
+### **About Me**
+-----
+- I’m a Grad Engineering Student and a machine learning enthusiast/researcher. My primary research interests include deep reinforcement learning, applications of machine learning in mathematical optimization and operations research, graph representation learning, and geometric deep learning. Also, I always have an eye for advances and research in more fundamental topics of AI such as novel optimization techniques, learning methods, and architectures.
+
+
+
+
+### **My Stack**
+-----
 <p align="left">
-<a href="https://www.linkedin.com/in/omar-ebrahim-9251931a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar ebrahim" height="30" width="40" /></a>
-<a href="mailto:omarkhaled200321@gmail.com" target="blank"><img align="center" src="https://clipartcraft.com/images/gmail-logo-square-1.png" alt="omar ebrahim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCtvXtd8XElsDnhq0k-GLDHg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar ebrahim" height="30" width="40" /></a>
-</p>
+<a href="https://python.org/" target="_blank"> <img src="https://simpleicons.vercel.app/python/3776AB" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://simpleicons.vercel.app/tensorflow/FF6F00" alt="TensorFlow" width="40" height="40"/> </a>
+<a href="https://www.keras.io/" target="_blank"> <img src="https://simpleicons.vercel.app/keras/D00000" alt="Keras" width="40" height="40"/> </a>
+<a href="https://pytorch.org//" target="_blank"> <img src="https://simpleicons.vercel.app/pytorch/EE4C2C" alt="PyTorch" width="40" height="40"/> </a>
+<a href="https://www.pytorchlightning.ai/" target="_blank"> <img src="https://simpleicons.vercel.app/lightning/792EE5" alt="PyTorchLighning" width="40" height="40"/> </a>
+<a href="https://www.pyg.org/" target="_blank"> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pyg" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://simpleicons.vercel.app/scikitlearn/F7931E" alt="sklearn" width="40" height="40"/> </a>
+<!-- <a href="https://jupyter.org/" target="_blank"> <img src="https://simpleicons.vercel.app/jupyter/F37626" alt="jupyter" width="40" height="40"/> </a>  -->
+<br>
+<!-- <a href="https://www.pyg.org/" target="_blank"> <img src="https://simpleicons.vercel.app/pyg/3C2179" alt="pyg" width="40" height="40"/> </a> -->
+<a href="https://cplusplus.com/" target="_blank"> <img src="https://simpleicons.vercel.app/cplusplus/00599C" alt="C++" width="40" height="40"/> </a>
+<a href="https://julialang.org/" target="_blank"> <img src="https://simpleicons.vercel.app/julia/9558B2" alt="julia" width="40" height="40"/> </a>
+<a href="https://www.gurobi.com/" target="_blank"> <img src="https://simpleicons.vercel.app/gurobi/EE3524" alt="julia" width="40" height="40"/> </a>
+<a href="https://colab.research.google.com/" target="_blank"> <img src="https://simpleicons.vercel.app/googlecolab/F9AB00" alt="Colab" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank"> <img src="https://simpleicons.vercel.app/opencv/5C3EE8" alt="opencv" width="40" height="40"/> </a>
+<a href="https://www.gymlibrary.ml/" target="_blank"> <img src="https://simpleicons.vercel.app/openaigym/0081A5" alt="openaigym" width="40" height="40"/> </a>
+<a href="https://www.scipy.org/" target="_blank"> <img src="https://simpleicons.vercel.app/scipy/8CAAE6" alt="scipy" width="40" height="40"/> </a>
+<!-- <a href="https://www.numpy.org/" target="_blank"> <img src="https://simpleicons.vercel.app/numpy/013243" alt="numpy" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://simpleicons.vercel.app/pandas/150458" alt="pandas" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://simpleicons.vercel.app/visualstudiocode/007ACC" alt="VSCode" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://simpleicons.vercel.app/git/F05032" alt="Git" width="40" height="40"/> </a>
+<a href="https://sqlite.org/" target="_blank"> <img src="https://simpleicons.vercel.app/sqlite/003B57" alt="SQLite" width="40" height="40"/> </a>
+<a href="https://postgresql.org/" target="_blank"> <img src="https://simpleicons.vercel.app/postgresql/4169E1" alt="postgreSQL" width="40" height="40"/> </a>
+<a href="https://mysql.com/" target="_blank"> <img src="https://simpleicons.vercel.app/mysql/4479A1" alt="mysql" width="40" height="40"/> </a>
+<a href="https://mongodb.com/" target="_blank"> <img src="https://simpleicons.vercel.app/mongodb/47A248" alt="mongodb" width="40" height="40"/> </a> -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://lofrev.net/wp-content/photos/2016/06/raspberry_pi-_logo.png" alt="raspberry pi" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://www.raspberryitaly.com/wp-content/uploads/2015/04/Arch-linux-logo.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" alt="git" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png" alt="assembly" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+
+
+
+
+### **Connect with me**
+-----
+<p align="left">
+<a href="https://twitter.com/ebrahimpka">
+  <img align="left" alt="Ebrahim's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/1DA1F2" />
+</a>
+<a href="https://www.linkedin.com/in/ebrahim-pichka/">
+  <img align="left" alt="Ebrahim's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/0A66C2" />
+</a>
+</a>
+<a href="https://ebrahimpichka.medium.com/">
+  <img align="left" alt="Ebrahim's Medium" width="20px" src="https://simpleicons.now.sh/medium/EEEEEE" />
+</a>
+<a href="mailto:ebrahim.pichka@gmail.com">
+  <img align="left" alt="Ebrahim's Gmail" width="20px" src="https://simpleicons.now.sh/gmail/EA4335" />
+<a href="https://stackoverflow.com/users/11813722/ebrahim-pichka">
+  <img align="left" alt="Ebrahim's Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/F58025" />
+</a>
+<br>
+<br>
