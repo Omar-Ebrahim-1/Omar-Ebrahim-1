@@ -7,7 +7,7 @@ and I am using it as a template for mine.
 
 ### **About Me**
 -----
-Innovative DevOps engineer with a passion for streamlining development, deployment, and operations processes. Adept at combining technical expertise with strong communication skills to bridge the gap between development and IT operations teams. Proven track record of implementing robust CI/CD pipelines, infrastructure automation, and cloud solutions that enhance productivity and reliability. Dedicated to fostering a culture of collaboration, continuous improvement, and agile methodologies to drive software delivery excellence.
+Experienced DevOps engineer with a passion for streamlining development, deployment, and operations processes. Adept at combining technical expertise with strong communication skills to bridge the gap between development and IT operations teams. Proven track record of implementing robust CI/CD pipelines, infrastructure automation, and cloud solutions that enhance productivity and reliability. Dedicated to fostering a culture of collaboration, continuous improvement, and agile methodologies to drive software delivery excellence.
 
 
 
