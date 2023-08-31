@@ -30,16 +30,3 @@ and I am using it as a template for mine.
 <a href="https://opencv.org/" target="_blank"> <img src="https://simpleicons.vercel.app/opencv/5C3EE8" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.gymlibrary.ml/" target="_blank"> <img src="https://simpleicons.vercel.app/openaigym/0081A5" alt="openaigym" width="40" height="40"/> </a>
 <a href="https://postgresql.org/" target="_blank"> <img src="https://simpleicons.vercel.app/postgresql/4169E1" alt="postgreSQL" width="40" height="40"/> </a>
-
-
-
-
-
-### **Connect with me**
------
-<p align="left">
-<a href="https://www.linkedin.com/in/omar-ebrahim/">
-  <img align="left" alt="Omar Ebrahim's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/0A66C2" />
-</a>
-<br>
-<br>
