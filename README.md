@@ -6,5 +6,5 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <img style="width: 47%;" src="https://github-readme-stats.vercel.app/api?username=omar-ebrahim-1&show_icons=true&locale=en" alt="omar-ebrahim-1" />
-  <img style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-ebrahim-1&" alt="omar-ebrahim-1" />
+  <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-ebrahim-1&" alt="omar-ebrahim-1" />
 </div>
