@@ -5,6 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-ebrahim-1" alt="omar-ebrahim-1" /></a> </p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=omar-ebrahim-1&show_icons=true&locale=en" alt="omar-ebrahim-1" />
-  <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-ebrahim-1&" alt="omar-ebrahim-1" />
+  <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=omar-ebrahim-1&show_icons=true&locale=en" alt="omar-ebrahim-1" />
+  <img style="width: 48%;" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-ebrahim-1&" alt="omar-ebrahim-1" />
 </div>
