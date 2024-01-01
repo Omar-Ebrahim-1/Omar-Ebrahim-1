@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img style="width: 97%" src="./hack.png" alt="omar-ebrahim-1" />
+    <img style="width: 97%" src="./clean-hack.png" alt="omar-ebrahim-1" />
   </a>
 </p>
 
