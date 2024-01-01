@@ -2,7 +2,7 @@
 <h3 align="center">I am an experienced DevOps engineer with a passion for streamlining development, deployment, and operations processes.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 80%" src="https://github-profile-trophy.vercel.app/?username=omar-ebrahim-1" alt="omar-ebrahim-1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 97%" src="https://github-profile-trophy.vercel.app/?username=omar-ebrahim-1" alt="omar-ebrahim-1" /></a> </p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <img style="width: 47%;" src="https://github-readme-stats.vercel.app/api?username=omar-ebrahim-1&show_icons=true&locale=en" alt="omar-ebrahim-1" />
